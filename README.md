@@ -176,6 +176,9 @@ ITAMS (Intelligent Task & Activity Management System) is a **production-ready**,
 
 ITAMS follows a **modern serverless architecture** leveraging AWS managed services for maximum scalability and minimal operational overhead.
 
+## 🏗️ Architecture
+
+![ITAMS Architecture](./itams-architecture-diagram.svg)
 ### 📐 System Architecture Diagram
 
 ```
