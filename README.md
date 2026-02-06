@@ -178,7 +178,9 @@ ITAMS follows a **modern serverless architecture** leveraging AWS managed servic
 
 ## 🏗️ Architecture
 
-![ITAMS Architecture](https://raw.githubusercontent.com/AMG786/ITAMS/main/itams-architecture-diagram.svg)
+![Uploading itams-architecture-diagram.jpg…]()
+
+
 ### 📐 System Architecture Diagram
 
 ```
