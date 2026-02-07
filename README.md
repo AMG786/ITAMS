@@ -12,9 +12,15 @@ ITAMS is a fully serverless task management application built on AWS infrastruct
 ## Demo
 
 Try ITAMS live at: [https://main.d12ogiakfc9r01.amplifyapp.com/](https://main.d12ogiakfc9r01.amplifyapp.com/)
+
 **Test Credentials:**
 - Email: `abdulmueezgujjar@gmail.com`
 - Password: `Project123@`
+
+## Architechure Diagram
+
+![Architecture Diagram](https://github.com/user-attachments/assets/e1041ad0-cb0e-4263-91dc-b1e28edce37e)
+
 
 ## Features
 
